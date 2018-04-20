@@ -8,4 +8,5 @@ Note: this card deck only allows for drawing cards from the top and returning th
 #### Dependencies
 
 Code requires Java 8 or newer
+
 Tests require JUnit 5 or newer
